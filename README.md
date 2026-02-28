@@ -48,5 +48,5 @@ To leverage data analytics skills to help businesses make data-driven decisions 
 ---
 
 ## 📬 Contact
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/abhay-panchal-a973ba260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 Email: abhaypanchal9015@gmail.com
