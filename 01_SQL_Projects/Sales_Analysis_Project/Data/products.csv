@@ -1,0 +1,31 @@
+product_id,product_name,category,price
+1,Wireless Mouse,Electronics,699.99
+2,Keyboard,Electronics,799.99
+3,Laptop Bag,Accessories,1499.99
+4,Smartphone,Electronics,24999.99
+5,Tablet,Electronics,15999.99
+6,Headphones,Electronics,1999.99
+7,Charger,Electronics,499.99
+8,Monitor,Electronics,9999.99
+9,USB Cable,Electronics,299.99
+10,Backpack,Accessories,1299.99
+11,Notebook,Stationery,199.99
+12,Pen,Stationery,49.99
+13,Water Bottle,Accessories,399.99
+14,Sports Shoes,Fashion,3599.99
+15,T-shirt,Fashion,799.99
+16,Jeans,Fashion,1499.99
+17,Sunglasses,Fashion,999.99
+18,Jacket,Fashion,2499.99
+19,Smartwatch,Electronics,4999.99
+20,Camera,Electronics,20999.99
+21,Speaker,Electronics,2999.99
+22,Desk,Home,7999.99
+23,Chair,Home,3999.99
+24,Coffee Mug,Accessories,299.99
+25,Notebook Set,Stationery,499.99
+26,Planner,Stationery,599.99
+27,Mouse Pad,Accessories,199.99
+28,Backpack Large,Accessories,1799.99
+29,Tennis Racket,Sports,3499.99
+30,Yoga Mat,Sports,999.99
