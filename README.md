@@ -22,6 +22,7 @@ I focus on solving real-world business problems using data-driven insights.
 
 
 ### 🐍 Python Projects
+- Academic Performance Analytics
 
 
 ### 📊 Power BI Dashboards
