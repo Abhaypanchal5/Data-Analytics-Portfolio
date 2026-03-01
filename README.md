@@ -19,7 +19,7 @@ I focus on solving real-world business problems using data-driven insights.
 ## 📂 Project Categories
 
 ### 🗄 SQL Projects
-
+- Sales_Analysis_Project
 
 ### 🐍 Python Projects
 - Academic Performance Analytics
