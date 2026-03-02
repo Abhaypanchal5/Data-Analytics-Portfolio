@@ -1,0 +1,511 @@
+order_id,customer_id,order_date,product_category,product_name,quantity,unit_price,discount_percent,city,payment_method
+1,CUST12,2023/03/13,Electronics, laptop ,-1,889.83,0.0,New York,UPI
+2,CUST98,2023/12/26,Clothing,T-shirt,1,679.32,10.0,New York,UPI
+3,CUST46,2023/04/21,Sports,TENNIS RACKET,3,162.29,15.0,New York,Cash
+4,CUST80,02-10-2023,Beauty,Facewash,4,127.41,10.0,,Cash
+5,CUST36,2023/04/27,Beauty, perfume ,-1,1284.42,0.0,Houston,Net Banking
+6,CUST94,2023/05/17,Home, chair ,-1,917.61,5.0,Phoenix,UPI
+7,CUST5,2023/11/24,Clothing,Shoes,1,1030.08,0.0,Los Angeles,Cash
+8,CUST83,2023/10/18,Sports,TENNIS RACKET,3,326.81,15.0,Houston,Net Banking
+9,CUST29,2023/10/15,Clothing,JACKET,4,1347.76,15.0,Chicago,UPI
+10,CUST9,2023/01/25,Beauty,CREAM,0,944.89,15.0,Phoenix,Net Banking
+11,CUST99,2023/01/06,Sports,Yoga Mat,-1,1025.75,,Chicago,Cash
+12,CUST39,2023/05/15,Electronics,Tablet,0,766.45,0.0,,UPI
+13,CUST40,2023/09/29,Clothing,Jacket,3,738.02,0.0,Chicago,UPI
+14,CUST17,2023/02/13,Electronics,Phone,-1,1467.2,,Los Angeles,Net Banking
+15,CUST40,07-11-2023,Beauty,PERFUME,1,1394.08,5.0,,Net Banking
+16,CUST76,07-05-2023,Home,Lamp,3,41.34,,Los Angeles,UPI
+17,CUST86,2023/02/04,Electronics, laptop ,3,115.58,5.0,Chicago,Net Banking
+18,CUST13,23-10-2023,Clothing,Jeans,5,1213.17,5.0,New York,Net Banking
+19,CUST32,2023/01/28,Home,Lamp,-1,100.31,10.0,New York,UPI
+20,CUST71,04-04-2023,Clothing,SHOES,1,1312.98,0.0,Houston,Card
+21,CUST22,02-05-2023,Electronics,Laptop,5,727.22,15.0,New York,Net Banking
+22,CUST8,21-08-2023,Electronics,HEADPHONES,5,240.65,10.0,Los Angeles,Card
+23,CUST24,2023/09/02,Home,MIXER,0,94.75,,New York,Card
+24,CUST11,2023/03/03,Beauty, lipstick ,1,872.59,0.0,Phoenix,Net Banking
+25,CUST41,10-06-2023,Beauty, facewash ,4,205.01,10.0,Houston,Card
+26,CUST9,21-02-2023,Electronics,Headphones,1,763.77,5.0,Chicago,UPI
+27,CUST85,2023/10/06,Home,TABLE,-2,1005.12,,Chicago,Card
+28,CUST92,2023/02/24,Clothing,JACKET,0,415.8,,Los Angeles,Cash
+29,CUST43,27-01-2023,Clothing, jacket ,4,1245.73,0.0,New York,UPI
+30,CUST5,2023/08/07,Home,Chair,-1,122.11,5.0,Phoenix,Cash
+31,CUST32,2023/07/06,Beauty, perfume ,-2,1349.4,5.0,,Card
+32,CUST95,2023/05/02,Home,Lamp,0,1323.31,0.0,Los Angeles,Cash
+33,CUST59,26-12-2023,Sports,CRICKET BAT,-2,1289.3,5.0,Los Angeles,Cash
+34,CUST45,04-12-2023,Home,CHAIR,3,425.12,0.0,Chicago,Net Banking
+35,CUST45,14-05-2023,Beauty, facewash ,2,67.0,,Houston,Cash
+36,CUST93,11-05-2023,Sports,Football,4,12.52,,,UPI
+37,CUST39,2023/12/07,Home,LAMP,3,998.45,0.0,,Cash
+38,CUST73,07-03-2023,Sports, tennis racket ,4,1019.2,5.0,Phoenix,Cash
+39,CUST28,2023/10/24,Sports, football ,3,702.83,15.0,,Net Banking
+40,CUST40,2023/12/06,Clothing,T-SHIRT,3,149.15,5.0,,UPI
+41,CUST92,2023/05/06,Clothing,JEANS,-1,688.57,,Los Angeles,Net Banking
+42,CUST90,2023/12/02,Sports,YOGA MAT,-1,1169.85,5.0,Los Angeles,Net Banking
+43,CUST93,2023/03/10,Electronics, phone ,3,1425.56,15.0,Phoenix,Net Banking
+44,CUST63,01-09-2023,Beauty,Cream,1,1261.4,10.0,Phoenix,UPI
+45,CUST18,27-05-2023,Home,LAMP,3,486.37,,New York,UPI
+46,CUST27,02-02-2023,Clothing,Shoes,3,818.49,15.0,New York,Net Banking
+47,CUST69,14-07-2023,Sports,Football,3,454.93,15.0,Houston,UPI
+48,CUST22,06-09-2023,Sports,CRICKET BAT,3,1006.62,15.0,,Net Banking
+49,CUST7,06-12-2023,Clothing,T-shirt,4,212.19,15.0,Los Angeles,Cash
+50,CUST11,17-06-2023,Sports,TENNIS RACKET,4,424.6,15.0,Chicago,Net Banking
+51,CUST3,29-11-2023,Electronics,Laptop,-2,1133.81,5.0,Los Angeles,UPI
+52,CUST78,22-04-2023,Clothing, jeans ,2,1152.68,5.0,Phoenix,Card
+53,CUST76,2023/01/14,Clothing,JACKET,4,601.02,5.0,New York,UPI
+54,CUST48,2023/03/03,Electronics,Tablet,-2,527.33,15.0,,Card
+55,CUST59,2023/08/04,Beauty,FACEWASH,-1,655.95,10.0,,UPI
+56,CUST42,2023/05/19,Sports,Cricket Bat,5,702.66,,Chicago,UPI
+57,CUST24,2023/08/26,Electronics, tablet ,4,511.23,15.0,Chicago,Net Banking
+58,CUST11,2023/11/02,Clothing,Jacket,2,838.13,,Los Angeles,UPI
+59,CUST38,2023/09/01,Sports, yoga mat ,5,677.78,0.0,New York,UPI
+60,CUST46,2023/08/31,Sports,Cricket Bat,3,644.0,,Chicago,Net Banking
+61,CUST24,2023/03/03,Home,TABLE,3,188.14,,,UPI
+62,CUST30,2023/10/29,Clothing,SHOES,2,1470.96,5.0,Chicago,Cash
+63,CUST90,01-10-2023,Clothing,JACKET,-2,1461.7,,Chicago,UPI
+64,CUST62,29-08-2023,Sports,Football,3,284.7,0.0,Chicago,Card
+65,CUST32,18-12-2023,Electronics,Headphones,0,1218.6,10.0,New York,Card
+66,CUST76,2023/04/26,Beauty,Cream,4,681.27,15.0,Chicago,Net Banking
+67,CUST23,2023/04/17,Home,Mixer,2,994.04,5.0,Los Angeles,Card
+68,CUST59,29-08-2023,Clothing,T-shirt,1,439.28,10.0,,Card
+69,CUST83,2023/12/05,Clothing,Jacket,1,643.46,,Los Angeles,UPI
+70,CUST39,2023/03/26,Home,CHAIR,2,664.34,15.0,,Net Banking
+71,CUST74,2023/08/10,Home,Lamp,2,48.54,5.0,,Card
+72,CUST82,2023/09/23,Home, mixer ,2,280.42,,Houston,Net Banking
+73,CUST85,10-12-2023,Electronics,Headphones,0,501.41,15.0,Chicago,Net Banking
+74,CUST70,15-06-2023,Beauty,Lipstick,4,1298.72,0.0,,Net Banking
+75,CUST35,2023/07/05,Sports,FOOTBALL,5,941.86,0.0,Los Angeles,UPI
+76,CUST2,2023/01/15,Home,Lamp,1,1067.58,10.0,Phoenix,Net Banking
+77,CUST91,2023/08/25,Electronics,Phone,0,752.58,10.0,Phoenix,Cash
+78,CUST18,10-10-2023,Sports, yoga mat ,1,1383.58,,,Card
+79,CUST85,2023/05/17,Home,Lamp,2,1091.82,,Phoenix,Net Banking
+80,CUST90,2023/10/10,Clothing,Shoes,4,688.46,10.0,Los Angeles,UPI
+81,CUST85,30-07-2023,Beauty,CREAM,5,1060.79,15.0,Houston,UPI
+82,CUST68,30-10-2023,Sports,FOOTBALL,-1,1312.54,15.0,New York,Net Banking
+83,CUST11,21-03-2023,Electronics,Phone,2,514.46,15.0,,Cash
+84,CUST88,2023/09/07,Beauty,Cream,-2,930.01,5.0,,Cash
+85,CUST6,2023/11/21,Clothing, t-shirt ,-1,671.08,10.0,New York,Cash
+86,CUST49,2023/05/06,Electronics,Tablet,0,263.28,0.0,Phoenix,UPI
+87,CUST87,23-11-2023,Sports,CRICKET BAT,2,1003.59,15.0,Chicago,UPI
+88,CUST26,2023/06/03,Electronics,Headphones,4,1038.57,15.0,Chicago,Net Banking
+89,CUST85,20-10-2023,Sports,FOOTBALL,2,1489.11,10.0,New York,Net Banking
+90,CUST78,2023/01/26,Home,Mixer,5,1250.93,10.0,Los Angeles,Cash
+91,CUST57,2023/12/04,Clothing,Jeans,0,946.09,0.0,Chicago,Card
+92,CUST47,01-06-2023,Beauty, facewash ,4,271.7,5.0,Phoenix,Cash
+93,CUST19,2023/06/01,Clothing,Jacket,3,1208.31,15.0,New York,UPI
+94,CUST49,22-07-2023,Sports,TENNIS RACKET,-1,687.63,10.0,Phoenix,Cash
+95,CUST39,15-10-2023,Electronics,Phone,1,975.0,15.0,,Net Banking
+96,CUST18,20-01-2023,Electronics,PHONE,5,183.02,5.0,Phoenix,Net Banking
+97,CUST79,04-10-2023,Sports,Tennis Racket,0,1329.27,0.0,Houston,Net Banking
+98,CUST83,2023/08/16,Home, mixer ,3,158.04,10.0,Phoenix,Cash
+99,CUST82,2023/03/04,Electronics,HEADPHONES,5,146.59,5.0,,Card
+100,CUST76,2023/03/06,Electronics,TABLET,1,112.23,,Los Angeles,UPI
+101,CUST23,02-11-2023,Clothing,Jacket,0,1481.42,,Chicago,Card
+102,CUST95,2023/05/02,Electronics,PHONE,-2,269.63,0.0,Los Angeles,Net Banking
+103,CUST6,2023/07/05,Beauty,Lipstick,-1,683.49,5.0,Phoenix,Cash
+104,CUST57,2023/09/03,Sports,FOOTBALL,4,1032.29,15.0,,Card
+105,CUST38,2023/05/21,Electronics, tablet ,3,577.55,,Phoenix,Net Banking
+106,CUST44,26-12-2023,Beauty,CREAM,1,650.8,5.0,Houston,Net Banking
+107,CUST12,2023/06/10,Sports,Yoga Mat,3,1430.85,15.0,New York,Card
+108,CUST43,2023/07/10,Electronics,HEADPHONES,-2,883.83,,Phoenix,Card
+109,CUST46,2023/08/05,Sports,Tennis Racket,-2,1452.91,,Chicago,Card
+110,CUST15,04-09-2023,Beauty,PERFUME,-1,531.67,,Chicago,Cash
+111,CUST24,2023/11/15,Beauty,Perfume,-2,917.4,10.0,New York,Cash
+112,CUST96,2023/03/15,Home, table ,4,113.68,0.0,New York,UPI
+113,CUST97,2023/06/09,Sports, yoga mat ,-1,1326.18,5.0,Los Angeles,Card
+114,CUST45,07-11-2023,Electronics,Tablet,2,331.2,,New York,Net Banking
+115,CUST1,2023/09/27,Electronics,Tablet,-2,338.57,,New York,UPI
+116,CUST17,29-05-2023,Home,Chair,-2,751.1,15.0,Los Angeles,Net Banking
+117,CUST41,01-07-2023,Beauty,Perfume,-2,659.97,15.0,New York,Net Banking
+118,CUST89,28-02-2023,Beauty,Cream,3,266.09,,Houston,Cash
+119,CUST44,29-10-2023,Electronics, headphones ,-1,599.69,10.0,,UPI
+120,CUST94,21-11-2023,Home,CHAIR,1,1359.82,10.0,Chicago,UPI
+121,CUST99,12-04-2023,Clothing,T-SHIRT,0,1142.72,0.0,Los Angeles,Net Banking
+122,CUST57,2023/11/26,Sports,Yoga Mat,3,1297.73,10.0,Los Angeles,Card
+123,CUST8,30-10-2023,Sports,Yoga Mat,-1,472.51,15.0,New York,Cash
+124,CUST6,2023/02/16,Home,Mixer,4,699.44,,,Net Banking
+125,CUST11,2023/03/19,Beauty,Perfume,5,164.22,10.0,,UPI
+126,CUST53,2023/09/26,Electronics,Phone,0,552.21,10.0,Houston,Cash
+127,CUST43,03-02-2023,Beauty,Lipstick,4,433.38,,Los Angeles,Card
+128,CUST72,2023/12/02,Beauty,Perfume,4,202.14,0.0,Chicago,Net Banking
+129,CUST47,2023/12/17,Home,Chair,-1,972.58,15.0,Phoenix,Card
+130,CUST10,20-04-2023,Home,TABLE,5,296.09,5.0,Los Angeles,Cash
+131,CUST99,13-11-2023,Electronics,Laptop,4,239.84,5.0,,UPI
+132,CUST69,2023/05/02,Sports,Football,2,1131.06,15.0,Los Angeles,UPI
+133,CUST65,2023/12/14,Home, lamp ,5,697.9,10.0,Houston,Net Banking
+134,CUST92,09-05-2023,Clothing, jeans ,5,1312.43,,New York,Card
+135,CUST45,20-09-2023,Home, mixer ,4,146.65,5.0,Houston,Card
+136,CUST92,2023/07/17,Sports,Football,3,344.56,10.0,New York,Cash
+137,CUST79,2023/08/30,Clothing,JEANS,0,1140.67,15.0,Houston,Card
+138,CUST39,2023/03/18,Electronics,LAPTOP,4,175.67,10.0,Los Angeles,Card
+139,CUST66,23-08-2023,Electronics,Phone,5,899.14,0.0,,UPI
+140,CUST47,2023/05/04,Clothing,Jacket,0,999.91,0.0,Phoenix,Card
+141,CUST9,22-11-2023,Beauty,Lipstick,3,387.94,0.0,Chicago,Cash
+142,CUST60,20-06-2023,Clothing,T-shirt,3,823.56,5.0,,Net Banking
+143,CUST41,23-08-2023,Clothing,JEANS,1,75.27,5.0,New York,Cash
+144,CUST43,10-05-2023,Beauty,Cream,1,436.31,0.0,,Cash
+145,CUST89,2023/08/14,Electronics,Tablet,4,515.16,5.0,Houston,Net Banking
+146,CUST11,10-02-2023,Home,Table,0,822.76,10.0,New York,Cash
+147,CUST56,2023/03/27,Home,Table,3,676.22,10.0,Phoenix,Cash
+148,CUST87,2023/09/20,Electronics,Laptop,0,1429.66,5.0,Phoenix,Net Banking
+149,CUST20,27-11-2023,Electronics,PHONE,4,1424.71,0.0,Phoenix,Net Banking
+150,CUST15,2023/03/12,Home, table ,4,478.43,10.0,Los Angeles,Card
+151,CUST37,02-03-2023,Clothing,Shoes,2,1059.02,5.0,Phoenix,Net Banking
+152,CUST45,07-02-2023,Clothing,T-SHIRT,5,1495.92,10.0,,Card
+153,CUST16,2023/12/31,Beauty,Facewash,0,1192.61,,Los Angeles,UPI
+154,CUST79,2023/10/11,Clothing, jeans ,5,1207.46,,Los Angeles,Card
+155,CUST41,2023/09/03,Electronics,Tablet,4,1236.78,0.0,Los Angeles,Card
+156,CUST65,2023/10/10,Sports,Yoga Mat,0,1153.99,5.0,Houston,Card
+157,CUST82,30-12-2023,Electronics, phone ,2,1270.44,10.0,Los Angeles,Cash
+158,CUST78,25-11-2023,Clothing, jacket ,0,265.09,,,Cash
+159,CUST80,2023/01/24,Beauty, lipstick ,2,980.18,,Houston,Card
+160,CUST8,2023/05/06,Sports,Tennis Racket,4,453.18,0.0,,UPI
+161,CUST17,07-11-2023,Sports, yoga mat ,3,1103.96,10.0,Houston,Cash
+162,CUST79,17-05-2023,Beauty,Lipstick,0,154.25,10.0,Houston,Net Banking
+163,CUST64,10-06-2023,Clothing,Jeans,0,752.42,,Houston,Cash
+164,CUST7,2023/07/21,Sports,FOOTBALL,1,330.57,10.0,New York,Cash
+165,CUST47,2023/01/05,Sports,YOGA MAT,4,209.56,10.0,,Net Banking
+166,CUST98,10-04-2023,Home,Mixer,2,119.56,,Houston,Cash
+167,CUST26,19-02-2023,Beauty,LIPSTICK,3,841.17,10.0,Los Angeles,Net Banking
+168,CUST66,2023/03/12,Beauty,LIPSTICK,5,783.81,5.0,Phoenix,UPI
+169,CUST69,2023/11/12,Home,TABLE,2,894.65,,Phoenix,Net Banking
+170,CUST61,2023/06/19,Beauty, facewash ,4,879.72,0.0,Phoenix,Cash
+171,CUST74,2023/03/29,Beauty,Perfume,4,230.19,5.0,New York,Card
+172,CUST95,2023/07/31,Clothing,T-shirt,4,757.71,,Houston,Card
+173,CUST44,2023/09/02,Clothing,Jeans,3,1435.46,15.0,Phoenix,Cash
+174,CUST91,07-05-2023,Home,LAMP,2,345.05,10.0,Chicago,UPI
+175,CUST99,21-05-2023,Sports,Tennis Racket,4,1344.68,15.0,Chicago,UPI
+176,CUST26,01-01-2024,Home,MIXER,5,987.4,15.0,Los Angeles,Cash
+177,CUST82,2023/11/12,Beauty,FACEWASH,1,371.26,,Los Angeles,UPI
+178,CUST53,2023/02/21,Electronics,Laptop,0,17.72,,Los Angeles,Net Banking
+179,CUST95,2023/05/27,Sports, cricket bat ,-1,981.93,5.0,Phoenix,Card
+180,CUST38,2023/01/19,Clothing, shoes ,4,1184.06,5.0,,Card
+181,CUST60,21-06-2023,Electronics, tablet ,5,1335.0,5.0,Phoenix,Cash
+182,CUST73,28-11-2023,Clothing,T-shirt,0,30.99,10.0,Chicago,UPI
+183,CUST42,14-02-2023,Clothing,Shoes,-1,285.32,5.0,Houston,UPI
+184,CUST34,2023/05/17,Electronics,Tablet,2,877.87,,New York,Cash
+185,CUST79,23-03-2023,Clothing,T-shirt,2,1038.53,10.0,Chicago,UPI
+186,CUST88,07-11-2023,Clothing,Jeans,5,1138.45,5.0,Los Angeles,Card
+187,CUST42,16-10-2023,Beauty,Cream,1,863.33,5.0,Los Angeles,Net Banking
+188,CUST59,19-09-2023,Electronics,Phone,-2,685.61,,Houston,Card
+189,CUST6,12-01-2023,Beauty,Cream,-2,1121.25,,New York,Net Banking
+190,CUST99,2023/02/05,Home, mixer ,5,57.28,15.0,Los Angeles,UPI
+191,CUST23,13-07-2023,Sports,Tennis Racket,0,983.77,10.0,New York,Net Banking
+192,CUST69,2023/01/02,Beauty, perfume ,2,699.88,,Houston,Net Banking
+193,CUST99,2023/04/07,Clothing, jeans ,-1,58.0,15.0,Phoenix,Card
+194,CUST57,01-11-2023,Clothing,JEANS,-2,374.65,0.0,Houston,UPI
+195,CUST74,2023/03/13,Beauty,Perfume,2,358.9,,Chicago,Cash
+196,CUST95,24-09-2023,Clothing,Jacket,2,419.98,,Phoenix,UPI
+197,CUST54,2023/06/26,Sports,YOGA MAT,4,1180.85,10.0,,Net Banking
+198,CUST8,31-08-2023,Clothing,Jacket,1,458.1,5.0,Houston,Net Banking
+199,CUST93,2023/06/19,Sports, cricket bat ,5,1272.23,0.0,Phoenix,UPI
+200,CUST86,2023/01/21,Electronics,Tablet,1,1208.93,,,UPI
+201,CUST97,08-01-2023,Sports,Cricket Bat,1,1443.5,0.0,,Net Banking
+202,CUST34,2023/06/14,Clothing, jeans ,4,704.71,10.0,Chicago,Cash
+203,CUST53,2023/08/29,Beauty,Cream,3,1372.35,10.0,Chicago,Card
+204,CUST30,2023/10/11,Beauty, perfume ,4,449.84,5.0,Chicago,Net Banking
+205,CUST22,17-12-2023,Beauty,Perfume,5,1450.1,15.0,Houston,Cash
+206,CUST7,2023/10/05,Clothing,Jeans,-2,790.68,0.0,,Card
+207,CUST80,29-12-2023,Sports, cricket bat ,1,763.54,10.0,New York,Net Banking
+208,CUST37,10-10-2023,Sports,FOOTBALL,-2,798.83,10.0,Phoenix,Card
+209,CUST33,2023/02/24,Beauty,Cream,0,369.04,,Phoenix,Cash
+210,CUST88,27-07-2023,Home,LAMP,1,1485.45,5.0,Chicago,Card
+211,CUST56,01-09-2023,Electronics,Laptop,-2,1057.24,0.0,Houston,Cash
+212,CUST36,28-04-2023,Beauty,Lipstick,5,413.93,0.0,,Card
+213,CUST73,2023/04/17,Clothing,JACKET,4,1394.02,10.0,Los Angeles,UPI
+214,CUST96,2023/07/16,Beauty,Cream,0,1187.84,0.0,Phoenix,Cash
+215,CUST82,2023/06/24,Electronics,Laptop,4,1453.69,10.0,New York,Cash
+216,CUST49,2023/10/11,Sports,YOGA MAT,4,286.75,,,Card
+217,CUST50,12-02-2023,Beauty,Facewash,4,1070.4,5.0,,Cash
+218,CUST56,07-06-2023,Home,MIXER,2,162.32,0.0,Los Angeles,Net Banking
+219,CUST2,15-02-2023,Beauty,CREAM,-1,899.42,10.0,Houston,Cash
+220,CUST49,2023/10/14,Sports,Yoga Mat,1,862.22,5.0,,UPI
+221,CUST47,02-02-2023,Clothing,Jacket,2,637.44,15.0,New York,Cash
+222,CUST49,24-02-2023,Clothing, shoes ,-2,1423.75,10.0,Phoenix,Cash
+223,CUST26,2023/11/30,Sports,Tennis Racket,0,457.65,,,Net Banking
+224,CUST49,2023/05/30,Home,Chair,5,1451.97,5.0,Chicago,Cash
+225,CUST94,16-10-2023,Sports,TENNIS RACKET,0,1025.75,,New York,Net Banking
+226,CUST39,2023/02/05,Clothing,Shoes,4,1012.74,5.0,,UPI
+227,CUST89,07-02-2023,Home,Chair,5,877.54,,Phoenix,Net Banking
+228,CUST86,2023/10/02,Beauty,Lipstick,-1,172.96,5.0,,Cash
+229,CUST2,28-11-2023,Clothing,T-shirt,3,1448.92,15.0,New York,Card
+230,CUST99,2023/10/25,Home,Chair,1,674.21,15.0,Houston,UPI
+231,CUST27,13-02-2023,Home, mixer ,0,529.01,10.0,Houston,Net Banking
+232,CUST44,23-12-2023,Home,LAMP,-1,457.39,0.0,New York,Card
+233,CUST24,2023/06/19,Clothing,Jeans,5,355.46,15.0,,UPI
+234,CUST91,2023/11/11,Sports,YOGA MAT,5,892.38,15.0,New York,UPI
+235,CUST15,2023/02/02,Clothing,Jacket,0,555.03,5.0,Houston,Cash
+236,CUST87,28-10-2023,Sports,Tennis Racket,3,1269.82,,Los Angeles,Cash
+237,CUST50,03-05-2023,Beauty,Lipstick,0,566.23,5.0,Phoenix,Net Banking
+238,CUST18,2023/09/07,Beauty,Perfume,0,836.82,15.0,Chicago,UPI
+239,CUST84,05-01-2023,Home,Lamp,1,1224.67,,Phoenix,Net Banking
+240,CUST5,08-09-2023,Sports,Yoga Mat,-2,1195.86,5.0,Chicago,Cash
+241,CUST15,2023/08/23,Clothing,JACKET,5,829.09,0.0,Phoenix,Cash
+242,CUST5,2023/08/14,Beauty,Facewash,4,162.6,5.0,Chicago,Net Banking
+243,CUST45,2023/03/02,Home, table ,1,322.72,,,Net Banking
+244,CUST91,2023/01/31,Clothing,Jeans,2,899.32,5.0,Chicago,Cash
+245,CUST36,2023/12/14,Home,Table,0,1444.53,15.0,New York,UPI
+246,CUST35,2023/06/14,Clothing,JEANS,4,739.29,,,Net Banking
+247,CUST63,17-02-2023,Sports,YOGA MAT,2,1045.11,10.0,Houston,Cash
+248,CUST69,2023/02/17,Beauty,Lipstick,5,955.91,10.0,New York,Net Banking
+249,CUST63,2023/06/15,Clothing,Shoes,3,825.49,5.0,Phoenix,Cash
+250,CUST26,24-08-2023,Electronics,LAPTOP,0,667.52,0.0,Houston,UPI
+251,CUST51,2023/02/17,Home,Chair,2,132.81,5.0,New York,Cash
+252,CUST88,01-01-2023,Clothing,Shoes,-1,207.72,5.0,Phoenix,Net Banking
+253,CUST94,2023/08/05,Electronics,Laptop,5,115.53,15.0,New York,Card
+254,CUST68,2023/07/15,Electronics, tablet ,0,965.95,5.0,New York,Card
+255,CUST12,2023/11/18,Beauty,Perfume,4,927.95,15.0,Los Angeles,Card
+256,CUST71,08-08-2023,Clothing,T-shirt,0,379.2,0.0,Los Angeles,Cash
+257,CUST64,2023/11/07,Electronics,TABLET,4,450.36,0.0,Los Angeles,Net Banking
+258,CUST50,2023/09/28,Electronics,Phone,-2,1480.45,10.0,Los Angeles,Net Banking
+259,CUST8,07-02-2023,Home,Chair,-1,30.55,5.0,New York,Net Banking
+260,CUST79,01-08-2023,Beauty,Facewash,4,132.82,,Phoenix,UPI
+261,CUST82,2023/04/15,Home,Mixer,0,809.22,15.0,Phoenix,Card
+262,CUST8,30-01-2023,Home,Lamp,4,182.82,,Phoenix,Cash
+263,CUST67,2023/03/12,Clothing,T-SHIRT,0,749.66,10.0,Phoenix,Cash
+264,CUST55,2023/05/18,Clothing,JACKET,-1,1159.43,0.0,Chicago,Cash
+265,CUST64,2023/10/23,Beauty,LIPSTICK,5,688.24,10.0,New York,UPI
+266,CUST6,2023/02/22,Home,CHAIR,-1,350.32,,New York,Card
+267,CUST42,18-03-2023,Clothing,T-shirt,-2,833.77,15.0,Los Angeles,UPI
+268,CUST29,2023/02/09,Sports,TENNIS RACKET,-1,758.04,0.0,Los Angeles,Card
+269,CUST73,09-06-2023,Sports,Football,5,21.87,5.0,Chicago,Cash
+270,CUST20,2023/09/10,Beauty,Perfume,1,1101.37,,Los Angeles,Card
+271,CUST49,2023/06/27,Sports,FOOTBALL,-2,1426.98,0.0,,Cash
+272,CUST30,2023/09/09,Electronics, phone ,0,1070.36,0.0,New York,Net Banking
+273,CUST56,2023/02/18,Home, lamp ,4,121.5,,New York,UPI
+274,CUST58,2023/06/11,Clothing,JACKET,4,1054.08,10.0,Chicago,Cash
+275,CUST53,27-10-2023,Clothing, t-shirt ,-1,254.92,15.0,Chicago,Card
+276,CUST90,07-06-2023,Beauty, facewash ,-1,144.73,10.0,,Card
+277,CUST39,31-12-2023,Clothing,JACKET,3,600.4,0.0,,Cash
+278,CUST16,2023/10/12,Clothing,T-shirt,1,151.14,0.0,Los Angeles,Card
+279,CUST3,25-07-2023,Electronics,PHONE,-1,877.66,10.0,New York,Card
+280,CUST93,19-06-2023,Clothing, shoes ,5,85.45,,Houston,Net Banking
+281,CUST5,01-07-2023,Sports,Football,0,419.72,15.0,Los Angeles,UPI
+282,CUST68,01-02-2023,Home,Lamp,4,214.48,5.0,,UPI
+283,CUST42,03-07-2023,Beauty,Lipstick,5,522.61,,Phoenix,Net Banking
+284,CUST46,02-11-2023,Home,CHAIR,2,97.3,15.0,Phoenix,UPI
+285,CUST50,04-05-2023,Clothing,T-SHIRT,-2,1148.43,5.0,Phoenix,Cash
+286,CUST90,2023/06/12,Clothing,JEANS,3,1371.83,0.0,,Cash
+287,CUST30,2023/09/10,Beauty, perfume ,0,740.75,0.0,New York,UPI
+288,CUST8,11-11-2023,Electronics,HEADPHONES,0,517.73,5.0,Chicago,Card
+289,CUST13,2023/07/06,Clothing,Jeans,3,1059.76,15.0,Phoenix,Cash
+290,CUST41,2023/03/22,Home,TABLE,4,1189.85,15.0,,UPI
+291,CUST23,2023/10/29,Beauty,FACEWASH,4,467.17,10.0,Los Angeles,Card
+292,CUST82,18-10-2023,Beauty,Cream,3,1382.35,,Los Angeles,Card
+293,CUST86,2023/06/27,Sports, cricket bat ,0,957.92,0.0,,Cash
+294,CUST1,2023/05/08,Sports,FOOTBALL,3,392.42,0.0,,Card
+295,CUST62,31-07-2023,Sports,Yoga Mat,4,533.33,15.0,New York,UPI
+296,CUST44,18-01-2023,Clothing,SHOES,3,399.08,0.0,New York,UPI
+297,CUST22,17-02-2023,Sports,Cricket Bat,5,1059.71,15.0,,Net Banking
+298,CUST85,2023/04/16,Clothing,T-SHIRT,4,1048.82,,Chicago,Cash
+299,CUST55,2023/07/21,Home,CHAIR,5,238.85,10.0,New York,Card
+300,CUST40,14-01-2023,Home,LAMP,2,1465.82,15.0,New York,Net Banking
+301,CUST24,2023/11/25,Sports, yoga mat ,0,562.82,15.0,Chicago,Net Banking
+302,CUST86,2023/05/18,Electronics, tablet ,0,1130.83,0.0,New York,Cash
+303,CUST88,11-10-2023,Beauty,Cream,4,1229.42,15.0,Phoenix,Net Banking
+304,CUST22,01-01-2024,Beauty, perfume ,0,189.22,15.0,Los Angeles,UPI
+305,CUST34,2023/02/10,Clothing,JEANS,4,310.86,5.0,Phoenix,Cash
+306,CUST80,2023/06/16,Electronics,Laptop,5,1376.57,0.0,,Net Banking
+307,CUST37,2023/10/18,Electronics,HEADPHONES,-1,1388.14,,New York,Cash
+308,CUST78,08-11-2023,Sports,Tennis Racket,0,420.37,5.0,Phoenix,Net Banking
+309,CUST44,02-05-2023,Electronics,Headphones,5,1382.04,10.0,New York,Cash
+310,CUST35,17-12-2023,Home,Table,1,210.23,15.0,Chicago,Net Banking
+311,CUST8,2023/04/19,Beauty,LIPSTICK,4,1114.01,,Chicago,UPI
+312,CUST32,2023/09/26,Electronics,Tablet,-2,268.87,5.0,New York,Card
+313,CUST4,21-05-2023,Sports,Football,5,762.64,0.0,,UPI
+314,CUST89,2023/08/31,Home, lamp ,3,522.93,10.0,,Card
+315,CUST27,2023/10/20,Home, mixer ,1,1287.1,5.0,,Cash
+316,CUST29,16-12-2023,Sports,Football,0,974.58,,New York,Cash
+317,CUST28,21-05-2023,Beauty,Facewash,4,1278.86,15.0,Chicago,Net Banking
+318,CUST37,2023/12/06,Home, lamp ,3,846.57,,Phoenix,Cash
+319,CUST20,2023/05/22,Electronics,HEADPHONES,2,399.11,10.0,Los Angeles,UPI
+320,CUST50,2023/01/14,Electronics,Headphones,2,396.55,15.0,Houston,Card
+321,CUST39,2023/12/18,Beauty,Perfume,5,1360.72,10.0,Phoenix,UPI
+322,CUST88,30-08-2023,Beauty,PERFUME,2,1090.53,,Los Angeles,Cash
+323,CUST60,07-06-2023,Electronics,Phone,3,563.81,,Chicago,Card
+324,CUST39,14-11-2023,Sports,Football,1,755.71,15.0,Phoenix,Net Banking
+325,CUST63,13-04-2023,Electronics,PHONE,5,223.4,5.0,New York,Cash
+326,CUST98,21-05-2023,Clothing, jacket ,0,868.66,5.0,Houston,Card
+327,CUST42,02-09-2023,Clothing,Shoes,-2,805.34,10.0,New York,UPI
+328,CUST76,2023/12/22,Electronics, laptop ,2,202.11,15.0,Phoenix,Cash
+329,CUST63,29-05-2023,Clothing, t-shirt ,3,656.16,5.0,Chicago,Cash
+330,CUST94,26-07-2023,Clothing,Jeans,1,1093.48,5.0,Los Angeles,Card
+331,CUST80,2023/12/31,Beauty,PERFUME,-2,569.04,10.0,Phoenix,Card
+332,CUST71,11-01-2023,Beauty,Lipstick,-1,631.0,15.0,New York,Cash
+333,CUST67,2023/12/18,Sports,CRICKET BAT,2,637.1,0.0,,Cash
+334,CUST26,2023/09/19,Beauty,Perfume,-1,431.23,0.0,Houston,UPI
+335,CUST31,24-03-2023,Home,Chair,5,1366.43,15.0,Chicago,Card
+336,CUST93,09-12-2023,Electronics,Laptop,-1,1171.49,0.0,,Card
+337,CUST47,16-05-2023,Home,Chair,-1,1221.64,0.0,Chicago,Cash
+338,CUST46,24-01-2023,Sports,FOOTBALL,0,998.4,5.0,Chicago,Net Banking
+339,CUST50,25-06-2023,Beauty, facewash ,4,606.37,15.0,Chicago,Net Banking
+340,CUST73,2023/12/23,Sports,CRICKET BAT,0,164.53,,Houston,Net Banking
+341,CUST53,2023/12/17,Clothing,Shoes,0,729.79,15.0,New York,Net Banking
+342,CUST67,10-06-2023,Electronics,LAPTOP,1,1467.06,10.0,Phoenix,Card
+343,CUST61,25-11-2023,Sports,Cricket Bat,-2,27.35,5.0,Phoenix,Net Banking
+344,CUST49,2023/06/19,Clothing,T-shirt,-2,765.32,,,Net Banking
+345,CUST96,18-08-2023,Clothing,T-shirt,5,676.13,0.0,Houston,Card
+346,CUST84,2023/01/01,Electronics,Headphones,2,1336.27,,Los Angeles,Net Banking
+347,CUST58,21-08-2023,Home,Table,5,1077.82,10.0,,Card
+348,CUST14,2023/07/01,Electronics,PHONE,2,826.06,10.0,,Card
+349,CUST59,29-07-2023,Clothing,SHOES,1,289.44,15.0,Los Angeles,UPI
+350,CUST85,2023/11/21,Home, mixer ,-1,1160.5,15.0,Houston,UPI
+351,CUST75,2023/08/10,Sports, football ,5,1387.31,5.0,,UPI
+352,CUST98,2023/06/14,Clothing,T-shirt,4,633.81,,,UPI
+353,CUST90,2023/08/20,Home,Lamp,0,624.99,,Chicago,Cash
+354,CUST84,2023/11/16,Beauty,PERFUME,3,1382.58,5.0,,UPI
+355,CUST55,15-10-2023,Beauty,Facewash,4,1014.62,,Chicago,Card
+356,CUST88,16-03-2023,Beauty,LIPSTICK,-2,307.85,5.0,Chicago,Cash
+357,CUST96,05-10-2023,Clothing, t-shirt ,5,162.7,,Los Angeles,Net Banking
+358,CUST96,15-07-2023,Clothing, jacket ,3,1449.09,0.0,New York,Cash
+359,CUST78,2023/12/27,Clothing,Shoes,3,1135.11,,,UPI
+360,CUST6,08-02-2023,Clothing,Jacket,0,1105.27,0.0,Houston,Net Banking
+361,CUST20,2023/10/27,Home,TABLE,-2,502.54,5.0,New York,Cash
+362,CUST29,05-12-2023,Beauty,Lipstick,3,118.59,10.0,Phoenix,UPI
+363,CUST43,2023/10/06,Beauty, lipstick ,-1,530.61,5.0,,Cash
+364,CUST31,2023/11/13,Home,TABLE,-2,180.94,10.0,Houston,UPI
+365,CUST66,28-02-2023,Electronics,Tablet,2,46.81,,Chicago,Net Banking
+366,CUST69,30-11-2023,Sports,FOOTBALL,-1,1422.84,5.0,Phoenix,Card
+367,CUST10,17-12-2023,Electronics,Phone,-1,316.31,15.0,,UPI
+368,CUST34,07-02-2023,Electronics, headphones ,2,841.55,,Los Angeles,Net Banking
+369,CUST97,09-01-2023,Sports,Yoga Mat,-1,806.9,,New York,Card
+370,CUST51,18-12-2023,Electronics, tablet ,-1,429.46,15.0,Houston,Card
+371,CUST87,2023/07/20,Sports, cricket bat ,2,1440.6,5.0,Chicago,Cash
+372,CUST27,2023/01/03,Electronics,PHONE,4,810.36,0.0,Chicago,Cash
+373,CUST15,14-03-2023,Clothing,Shoes,1,929.16,10.0,Los Angeles,UPI
+374,CUST13,09-10-2023,Beauty,Lipstick,-1,443.07,0.0,Chicago,UPI
+375,CUST41,2023/12/10,Beauty,Cream,-1,434.85,0.0,Los Angeles,Net Banking
+376,CUST1,27-10-2023,Sports,Tennis Racket,3,1213.47,15.0,Los Angeles,Cash
+377,CUST60,2023/05/22,Clothing,Jeans,0,1022.57,10.0,Houston,Net Banking
+378,CUST26,2023/11/27,Home, table ,2,1289.48,5.0,Phoenix,Cash
+379,CUST71,20-11-2023,Electronics,Laptop,4,1156.11,5.0,New York,Cash
+380,CUST12,20-07-2023,Beauty, cream ,2,209.48,,Phoenix,Net Banking
+381,CUST73,2023/11/11,Home,Mixer,0,674.87,5.0,Phoenix,UPI
+382,CUST27,07-09-2023,Sports,TENNIS RACKET,2,560.46,0.0,,Cash
+383,CUST36,2023/01/21,Sports,Yoga Mat,3,163.81,,,Cash
+384,CUST67,2023/10/28,Beauty,Perfume,-1,779.83,15.0,Los Angeles,Net Banking
+385,CUST66,06-11-2023,Home,Table,0,665.45,5.0,New York,Cash
+386,CUST93,2023/07/05,Clothing,JEANS,-1,995.05,15.0,Chicago,Card
+387,CUST76,2023/11/28,Sports,Yoga Mat,-2,373.07,5.0,Phoenix,UPI
+388,CUST73,27-03-2023,Clothing, t-shirt ,0,779.79,15.0,Phoenix,Card
+389,CUST19,2023/11/07,Home,MIXER,5,264.14,15.0,Phoenix,UPI
+390,CUST49,18-12-2023,Beauty,FACEWASH,5,898.83,0.0,Los Angeles,Net Banking
+391,CUST23,2023/09/25,Clothing,T-SHIRT,4,1241.51,,New York,Net Banking
+392,CUST100,02-03-2023,Beauty,Lipstick,0,1353.96,,New York,Net Banking
+393,CUST76,29-09-2023,Beauty, cream ,5,1186.44,15.0,Chicago,Card
+394,CUST33,2023/04/30,Sports,CRICKET BAT,-1,432.07,,Houston,UPI
+395,CUST47,04-01-2023,Electronics, laptop ,1,1034.77,10.0,Houston,Card
+396,CUST53,02-10-2023,Clothing, shoes ,3,921.7,15.0,Los Angeles,Net Banking
+397,CUST30,2023/06/07,Clothing,Jacket,4,1106.32,0.0,,Net Banking
+398,CUST19,2023/07/25,Clothing,T-SHIRT,-2,249.5,0.0,New York,Net Banking
+399,CUST79,15-05-2023,Beauty,CREAM,-1,917.45,15.0,Houston,Cash
+400,CUST25,24-11-2023,Beauty,Lipstick,-2,310.54,,Chicago,Card
+401,CUST100,04-07-2023,Beauty,Perfume,-2,1463.71,0.0,Chicago,Net Banking
+402,CUST93,2023/01/08,Home, lamp ,-1,1379.57,,Chicago,Cash
+403,CUST53,10-04-2023,Home,TABLE,4,866.61,10.0,Los Angeles,Card
+404,CUST89,2023/03/01,Beauty,Lipstick,2,1315.41,,Chicago,Net Banking
+405,CUST49,2023/08/23,Sports,Yoga Mat,-2,728.14,10.0,New York,UPI
+406,CUST87,02-10-2023,Clothing,Jacket,2,379.9,0.0,Houston,Cash
+407,CUST95,21-10-2023,Electronics,Phone,1,753.51,5.0,Los Angeles,UPI
+408,CUST11,2023/05/08,Home,CHAIR,3,242.43,0.0,New York,Net Banking
+409,CUST36,2023/01/22,Beauty,Lipstick,3,934.79,15.0,Phoenix,Net Banking
+410,CUST65,07-03-2023,Clothing,Jacket,4,722.7,,New York,Cash
+411,CUST75,23-09-2023,Sports, cricket bat ,-2,27.61,5.0,Houston,Card
+412,CUST47,08-10-2023,Home, table ,2,712.3,,Chicago,UPI
+413,CUST24,2023/12/25,Sports,YOGA MAT,3,1282.95,10.0,Houston,UPI
+414,CUST2,2023/05/01,Beauty,Perfume,4,302.13,5.0,Houston,UPI
+415,CUST72,2023/11/19,Sports,YOGA MAT,3,1180.15,10.0,Chicago,Card
+416,CUST47,11-05-2023,Sports, football ,-1,680.28,10.0,Chicago,Cash
+417,CUST100,2023/06/29,Beauty,Facewash,1,869.51,,Los Angeles,Cash
+418,CUST19,2023/08/17,Home,Table,4,924.36,15.0,,UPI
+419,CUST38,06-02-2023,Home,Lamp,3,350.04,10.0,,Cash
+420,CUST53,2023/08/16,Beauty,CREAM,3,1124.36,,Houston,UPI
+421,CUST13,2023/05/01,Clothing,T-SHIRT,-1,323.75,15.0,New York,Card
+422,CUST11,2023/07/23,Sports,FOOTBALL,-1,164.85,,Los Angeles,Net Banking
+423,CUST5,26-05-2023,Home,CHAIR,0,205.6,5.0,New York,Cash
+424,CUST76,2023/05/20,Home,Lamp,0,1454.62,,Los Angeles,Net Banking
+425,CUST40,2023/06/08,Beauty,Cream,5,814.11,0.0,Houston,Cash
+426,CUST2,06-01-2023,Sports,TENNIS RACKET,0,522.39,15.0,Phoenix,Net Banking
+427,CUST25,2023/08/09,Sports,TENNIS RACKET,1,1197.18,,Chicago,Net Banking
+428,CUST81,27-11-2023,Beauty, cream ,4,338.68,0.0,Houston,UPI
+429,CUST18,2023/09/30,Beauty,FACEWASH,4,290.12,0.0,Los Angeles,Cash
+430,CUST3,15-11-2023,Electronics, headphones ,3,38.9,0.0,Phoenix,UPI
+431,CUST28,2023/08/13,Electronics,TABLET,1,144.39,0.0,Houston,Cash
+432,CUST35,10-07-2023,Sports,Tennis Racket,-2,502.07,5.0,New York,Net Banking
+433,CUST99,2023/05/09,Electronics,HEADPHONES,-2,191.72,5.0,Houston,Net Banking
+434,CUST21,2023/02/18,Clothing,T-SHIRT,1,714.51,10.0,Chicago,Card
+435,CUST31,23-11-2023,Beauty,LIPSTICK,3,1332.4,5.0,New York,Net Banking
+436,CUST75,2023/05/22,Home,MIXER,4,1185.82,0.0,New York,Net Banking
+437,CUST46,22-03-2023,Beauty, perfume ,3,1396.96,0.0,New York,UPI
+438,CUST25,30-04-2023,Beauty,LIPSTICK,3,1210.23,15.0,,Card
+439,CUST63,21-01-2023,Sports, tennis racket ,5,842.95,,,UPI
+440,CUST38,28-08-2023,Beauty,Perfume,0,112.63,5.0,Houston,Cash
+441,CUST100,17-09-2023,Beauty,Facewash,0,1325.57,,Chicago,UPI
+442,CUST37,18-07-2023,Home,Mixer,5,1150.94,5.0,Phoenix,Cash
+443,CUST5,2023/09/25,Sports,TENNIS RACKET,-2,1254.44,5.0,Los Angeles,UPI
+444,CUST90,2023/01/17,Electronics,HEADPHONES,4,990.3,,Phoenix,Cash
+445,CUST82,06-02-2023,Electronics,TABLET,1,987.07,0.0,Houston,Card
+446,CUST10,2023/01/30,Home,Lamp,2,798.24,0.0,Chicago,UPI
+447,CUST81,2023/04/29,Beauty,LIPSTICK,1,297.75,5.0,Phoenix,UPI
+448,CUST22,23-10-2023,Beauty,Cream,5,1056.8,15.0,New York,UPI
+449,CUST42,2023/10/01,Beauty,Cream,5,1400.94,10.0,Phoenix,Cash
+450,CUST33,2023/05/04,Sports,Yoga Mat,1,568.84,,,Cash
+451,CUST39,2023/01/18,Sports, yoga mat ,-2,781.24,10.0,New York,UPI
+452,CUST20,2023/12/20,Clothing,JACKET,0,150.49,15.0,Chicago,UPI
+453,CUST94,2023/05/12,Home, table ,-1,860.03,,Los Angeles,Card
+454,CUST94,2023/12/20,Home,LAMP,-1,896.89,10.0,New York,Net Banking
+455,CUST84,11-08-2023,Electronics,Laptop,-1,1305.98,5.0,,Card
+456,CUST7,2023/10/04,Sports, football ,3,758.58,5.0,Los Angeles,Net Banking
+457,CUST74,2023/05/29,Sports,FOOTBALL,0,206.96,0.0,Houston,Card
+458,CUST26,2023/07/24,Beauty,CREAM,0,1145.43,15.0,Phoenix,Net Banking
+459,CUST88,26-09-2023,Sports,Cricket Bat,-1,406.72,15.0,Chicago,Card
+460,CUST79,14-06-2023,Electronics,Headphones,-2,1156.83,5.0,Chicago,Net Banking
+461,CUST95,30-04-2023,Beauty,Perfume,3,242.43,0.0,New York,Card
+462,CUST43,08-01-2023,Clothing,Jeans,-1,464.63,15.0,New York,UPI
+463,CUST90,2023/09/25,Beauty,PERFUME,5,938.33,5.0,,Card
+464,CUST50,31-01-2023,Sports,FOOTBALL,2,89.1,0.0,New York,Cash
+465,CUST63,29-11-2023,Home,MIXER,4,767.73,0.0,Chicago,Card
+466,CUST63,31-12-2023,Clothing,Jeans,1,1384.18,10.0,Chicago,Net Banking
+467,CUST4,17-11-2023,Clothing,T-shirt,2,1219.72,10.0,Houston,Cash
+468,CUST88,12-03-2023,Clothing,Jeans,4,785.87,,,UPI
+469,CUST84,2023/06/09,Sports,Cricket Bat,3,679.26,5.0,Los Angeles,UPI
+470,CUST73,2023/12/28,Beauty,Perfume,0,650.8,5.0,,UPI
+471,CUST53,02-03-2023,Home,Mixer,0,1093.35,10.0,Houston,Cash
+472,CUST35,07-04-2023,Sports,TENNIS RACKET,0,49.04,,Phoenix,UPI
+473,CUST92,14-01-2023,Beauty,PERFUME,5,209.79,,Houston,Cash
+474,CUST53,09-04-2023,Clothing, shoes ,4,1149.16,0.0,Chicago,UPI
+475,CUST55,2023/08/13,Clothing,JEANS,5,1034.92,15.0,Los Angeles,Net Banking
+476,CUST6,2023/10/20,Electronics,Headphones,-2,785.77,15.0,Houston,UPI
+477,CUST39,2023/07/18,Beauty, cream ,-2,292.88,15.0,Houston,Cash
+478,CUST93,2023/01/28,Sports,Cricket Bat,0,700.73,15.0,New York,Card
+479,CUST42,13-01-2023,Clothing,Jeans,1,1325.0,0.0,Chicago,UPI
+480,CUST66,2023/08/19,Electronics,LAPTOP,-1,790.49,15.0,,UPI
+481,CUST99,2023/03/29,Sports,YOGA MAT,0,251.56,5.0,Los Angeles,Card
+482,CUST1,17-08-2023,Sports,Tennis Racket,0,185.16,5.0,Los Angeles,Cash
+483,CUST61,2023/01/03,Electronics,Headphones,5,364.44,,,Net Banking
+484,CUST7,04-11-2023,Sports,YOGA MAT,2,933.45,,Los Angeles,UPI
+485,CUST14,2023/01/17,Clothing, t-shirt ,2,503.36,0.0,New York,Net Banking
+486,CUST5,2023/12/21,Clothing,Jeans,0,1449.78,,Chicago,Card
+487,CUST89,2023/02/04,Home,Table,-1,446.32,5.0,New York,Cash
+488,CUST37,10-11-2023,Home,Lamp,-1,730.66,,,Net Banking
+489,CUST64,2023/10/22,Beauty,FACEWASH,3,1391.39,,Phoenix,Net Banking
+490,CUST16,2023/05/29,Sports, cricket bat ,-2,186.13,15.0,,UPI
+491,CUST37,2023/10/14,Beauty,Cream,1,26.83,5.0,,Cash
+492,CUST4,04-01-2023,Electronics,Tablet,3,518.63,,Phoenix,UPI
+493,CUST81,2023/09/03,Clothing,Jacket,-2,972.02,15.0,Los Angeles,Net Banking
+494,CUST69,2023/01/29,Beauty,Facewash,2,851.76,10.0,Phoenix,Card
+495,CUST49,01-07-2023,Clothing,Jacket,0,427.89,0.0,Chicago,UPI
+496,CUST5,2023/03/01,Beauty,CREAM,2,1060.85,10.0,,Cash
+497,CUST15,2023/08/20,Sports, football ,2,332.05,10.0,Los Angeles,Cash
+498,CUST68,2023/01/13,Electronics,Phone,0,293.42,15.0,,Cash
+499,CUST50,2023/09/22,Home, chair ,0,315.73,0.0,Houston,Card
+500,CUST67,2023/11/01,Electronics,Tablet,3,705.65,0.0,New York,Cash
+362,CUST29,05-12-2023,Beauty,Lipstick,3,118.59,10.0,Phoenix,UPI
+74,CUST70,15-06-2023,Beauty,Lipstick,4,1298.72,0.0,,Net Banking
+375,CUST41,2023/12/10,Beauty,Cream,-1,434.85,0.0,Los Angeles,Net Banking
+156,CUST65,2023/10/10,Sports,Yoga Mat,0,1153.99,5.0,Houston,Card
+105,CUST38,2023/05/21,Electronics, tablet ,3,577.55,,Phoenix,Net Banking
+395,CUST47,04-01-2023,Electronics, laptop ,1,1034.77,10.0,Houston,Card
+378,CUST26,2023/11/27,Home, table ,2,1289.48,5.0,Phoenix,Cash
+125,CUST11,2023/03/19,Beauty,Perfume,5,164.22,10.0,,UPI
+69,CUST83,2023/12/05,Clothing,Jacket,1,643.46,,Los Angeles,UPI
+451,CUST39,2023/01/18,Sports, yoga mat ,-2,781.24,10.0,New York,UPI
