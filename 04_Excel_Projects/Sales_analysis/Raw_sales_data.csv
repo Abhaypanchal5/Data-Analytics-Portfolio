@@ -1,0 +1,121 @@
+Order_ID,Customer_ID,City,Order_Date,Product_Name,Quantity,Unit_Price
+1,CUST5,Los Angeles,2023-02-27,Phone,1.0,800.0
+2,CUST2,Phoenix,2023-02-22,Headphones,,200.0
+3,CUST20,Los Angeles,2023-01-16,Monitor,1.0,500.0
+4,CUST23,new york,2023-01-14,laptop,,500.0
+5,CUST9,Houston,2023-10-07,Monitor,4.0,500.0
+6,CUST5,Chicago,2023-01-04,Tablet,2.0,1200.0
+7,CUST4,New York,2023-04-21,Headphones,3.0,200.0
+8,CUST2,Chicago,2023-07-03,Phone ,3.0,
+9,CUST18,Houston,2023-08-24,Laptop,,200.0
+10,CUST23,Phoenix,2023-05-31,Phone,,800.0
+11,CUST3,Chicago ,2023-02-05,Tablet,1.0,500.0
+12,CUST21,Chicago,2023-04-30,Headphones,1.0,1200.0
+13,CUST22,Chicago,2023-07-06,Phone,2.0,800.0
+14,CUST18,new york,2023-05-17,Phone,1.0,
+15,CUST21,Houston,2023-05-06,Tablet,2.0,1200.0
+16,CUST25,Chicago ,2023-10-13,Phone ,2.0,800.0
+17,CUST13,Chicago ,2023-01-29,Tablet,2.0,200.0
+18,CUST11,Phoenix,2023-05-18,laptop,1.0,500.0
+19,CUST5,new york,2023-04-19,Headphones,4.0,1200.0
+20,CUST18,new york,2023-05-16,Monitor,2.0,500.0
+21,CUST12,Phoenix,2023-05-15,Headphones,,1200.0
+22,CUST25,Houston,2023-04-23,Laptop,2.0,
+23,CUST22,new york,2023-01-25,Phone,1.0,500.0
+24,CUST20,Houston,2023-08-05,Headphones,,200.0
+25,CUST1,Phoenix,2023-08-28,Phone ,,800.0
+26,CUST11,Chicago ,2023-02-28,laptop,,800.0
+27,CUST1,Los Angeles,2023-02-27,Headphones,3.0,1200.0
+28,CUST21,Phoenix,2023-05-15,Laptop,,500.0
+29,CUST12,Los Angeles,2023-06-02,Phone,,
+30,CUST11,New York,2023-03-24,Monitor,,
+31,CUST10,Chicago,2023-09-08,Phone ,1.0,200.0
+32,CUST3,Phoenix,2023-05-03,Laptop,1.0,500.0
+33,CUST5,Chicago ,2023-09-06,Phone,1.0,
+34,CUST20,Chicago,2023-09-01,Monitor,,500.0
+35,CUST23,Chicago ,2023-08-05,laptop,2.0,
+36,CUST12,new york,2023-04-13,laptop,3.0,1200.0
+37,CUST8,New York,2023-08-13,Phone,,1200.0
+38,CUST8,Phoenix,2023-02-02,Monitor,3.0,200.0
+39,CUST2,new york,2023-04-23,laptop,1.0,200.0
+40,CUST3,Chicago ,2023-04-28,Tablet,1.0,200.0
+41,CUST7,new york,2023-09-21,Headphones,2.0,800.0
+42,CUST8,Phoenix,2023-10-04,Headphones,2.0,
+43,CUST22,New York,2023-08-31,Laptop,4.0,500.0
+44,CUST24,Houston,2023-08-09,Headphones,3.0,1200.0
+45,CUST11,Houston,2023-01-28,laptop,1.0,200.0
+46,CUST15,Los Angeles,2023-02-25,Monitor,2.0,500.0
+47,CUST8,Chicago,2023-03-13,Headphones,4.0,500.0
+48,CUST21,New York,2023-02-08,Laptop,4.0,
+49,CUST8,Chicago ,2023-10-04,Phone ,1.0,200.0
+50,CUST13,Houston,2023-03-27,Phone,4.0,1200.0
+51,CUST9,New York,2023-01-31,Headphones,2.0,1200.0
+52,CUST18,new york,2023-08-21,laptop,3.0,1200.0
+53,CUST2,Chicago,2023-09-07,Phone,2.0,500.0
+54,CUST2,new york,2023-10-24,Tablet,,200.0
+55,CUST17,Phoenix,2023-01-26,Phone ,,1200.0
+56,CUST6,New York,2023-03-22,Phone ,1.0,
+57,CUST8,new york,2023-02-05,Phone ,,200.0
+58,CUST20,Los Angeles,2023-07-26,Monitor,1.0,
+59,CUST19,Houston,2023-01-21,laptop,,200.0
+60,CUST22,Chicago,2023-10-17,Phone,,800.0
+61,CUST22,Houston,2023-06-10,Phone,2.0,800.0
+62,CUST1,Chicago ,2023-06-03,Laptop,4.0,800.0
+63,CUST18,New York,2023-08-23,Laptop,,
+64,CUST3,Los Angeles,2023-04-20,Tablet,,800.0
+65,CUST18,Los Angeles,2023-05-06,Headphones,3.0,800.0
+66,CUST18,New York,2023-06-04,laptop,,
+67,CUST4,Chicago,2023-06-03,Laptop,1.0,500.0
+68,CUST7,Chicago,2023-10-11,Monitor,2.0,800.0
+69,CUST9,Phoenix,2023-06-25,Headphones,2.0,800.0
+70,CUST2,Chicago ,2023-01-27,Tablet,1.0,1200.0
+71,CUST6,new york,2023-01-02,Tablet,3.0,500.0
+72,CUST4,Phoenix,2023-08-15,Laptop,,1200.0
+73,CUST12,New York,2023-02-08,Phone ,2.0,
+74,CUST2,Houston,2023-10-26,Phone,,500.0
+75,CUST22,Chicago,2023-06-07,Phone,3.0,200.0
+76,CUST14,Chicago ,2023-05-08,Monitor,1.0,800.0
+77,CUST6,Chicago ,2023-03-21,Phone ,2.0,500.0
+78,CUST14,new york,2023-07-31,Tablet,1.0,500.0
+79,CUST4,Chicago ,2023-05-08,laptop,3.0,500.0
+80,CUST15,Los Angeles,2023-07-15,Phone,1.0,1200.0
+81,CUST22,Los Angeles,2023-06-29,Laptop,3.0,500.0
+82,CUST3,Chicago,2023-04-09,Phone ,4.0,800.0
+83,CUST18,Houston,2023-05-23,laptop,3.0,
+84,CUST19,Chicago,2023-06-19,Phone,1.0,200.0
+85,CUST12,Phoenix,2023-05-16,Headphones,1.0,200.0
+86,CUST13,Phoenix,2023-06-10,Laptop,4.0,
+87,CUST14,New York,2023-10-23,laptop,2.0,800.0
+88,CUST24,new york,2023-01-01,laptop,,
+89,CUST11,New York,2023-04-11,laptop,3.0,1200.0
+90,CUST22,Phoenix,2023-06-10,Tablet,1.0,800.0
+91,CUST18,new york,2023-07-29,Tablet,3.0,1200.0
+92,CUST22,new york,2023-03-07,Headphones,2.0,1200.0
+93,CUST18,Chicago,2023-03-31,Headphones,,
+94,CUST19,Los Angeles,2023-01-01,Headphones,3.0,800.0
+95,CUST7,Houston,2023-06-14,laptop,4.0,1200.0
+96,CUST10,new york,2023-09-19,Laptop,4.0,500.0
+97,CUST25,New York,2023-09-21,Phone ,,800.0
+98,CUST5,Chicago ,2023-05-01,Phone,3.0,500.0
+99,CUST25,Houston,2023-01-13,Monitor,1.0,500.0
+100,CUST7,new york,2023-02-07,Monitor,4.0,1200.0
+101,CUST21,Los Angeles,2023-07-16,Phone,4.0,1200.0
+102,CUST23,Los Angeles,2023-01-03,Phone,1.0,1200.0
+103,CUST4,Phoenix,2023-09-23,Phone,4.0,200.0
+104,CUST18,new york,2023-08-22,Monitor,2.0,1200.0
+105,CUST17,Chicago ,2023-06-12,laptop,4.0,
+106,CUST16,Los Angeles,2023-08-07,laptop,,1200.0
+107,CUST9,Chicago ,2023-08-19,laptop,3.0,500.0
+108,CUST3,Chicago,2023-09-24,Headphones,4.0,500.0
+109,CUST18,Chicago,2023-05-27,Tablet,2.0,800.0
+110,CUST23,Los Angeles,2023-02-11,Headphones,2.0,500.0
+111,CUST11,Houston,2023-03-20,Headphones,2.0,200.0
+112,CUST14,New York,2023-10-05,Phone,4.0,1200.0
+113,CUST19,Chicago ,2023-07-19,Phone ,,200.0
+114,CUST25,Chicago,2023-07-14,Tablet,4.0,200.0
+115,CUST18,new york,2023-07-19,laptop,4.0,
+116,CUST16,Chicago,2023-04-23,Headphones,4.0,500.0
+117,CUST13,new york,2023-01-15,laptop,4.0,800.0
+118,CUST1,Phoenix,2023-03-26,Monitor,4.0,500.0
+119,CUST3,new york,2023-07-21,Laptop,,
+120,CUST9,Los Angeles,2023-08-08,Laptop,2.0,1200.0
