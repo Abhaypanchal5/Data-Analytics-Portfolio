@@ -23,13 +23,15 @@ I focus on solving real-world business problems using data-driven insights.
 
 ### 🐍 Python Projects
 - Academic Performance Analytics
+- Bank loan analysis (in progress)
+- Customer behaviour analysis (in progress)
 
 
 ### 📊 Power BI Dashboards
 
 
 ### 📈 Excel Projects
-
+- Sales analysis 
 
 ---
 
