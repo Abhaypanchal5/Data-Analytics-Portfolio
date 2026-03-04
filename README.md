@@ -23,7 +23,7 @@ I focus on solving real-world business problems using data-driven insights.
 
 ### 🐍 Python Projects
 - Academic Performance Analytics
-- Bank loan analysis (in progress)
+- Bank loan analysis
 - Customer behaviour analysis (in progress)
 
 
