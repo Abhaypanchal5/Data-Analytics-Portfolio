@@ -25,6 +25,7 @@ I focus on solving real-world business problems using data-driven insights.
 - Academic Performance Analytics
 - Bank loan analysis
 - Customer behaviour analysis (in progress)
+- Bank loan Risk analysis
 
 
 ### 📊 Power BI Dashboards
