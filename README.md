@@ -36,6 +36,7 @@ I focus on solving real-world business problems using data-driven insights.
 
 ### End-to-End-projects
 - Ecommerce sales analysis
+- Healthcare-Readmission-Analysis
 ---
 
 ## 🛠 Tools & Technologies
