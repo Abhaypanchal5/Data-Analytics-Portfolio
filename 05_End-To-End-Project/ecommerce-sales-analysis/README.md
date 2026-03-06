@@ -76,9 +76,6 @@ Country-wise revenue distribution.
 
 ## Dashboard
 
-### Revenue Overview
-![Revenue Dashboard]("C:\Users\abhay\OneDrive\Pictures\Screenshots\Screenshot 2026-03-06 152701.png")
-
 ------------------------------------------------------------------------
 
 # 📈 Key Insights
@@ -89,14 +86,6 @@ Country-wise revenue distribution.
 -   Decorative and gift products dominate the top-selling items.
 -   The **United Kingdom generates the majority of revenue**, indicating
     strong market concentration.
-
-------------------------------------------------------------------------
-
-# 📁 Project Structure
-
-End_to_End_Ecommerce_Analysis │ ├── dataset │ └── ecommerce_data.csv │
-├── dashboard │ └── ecommerce_sales_dashboard.pbix │ ├── images │ └──
-dashboard_preview.png │ └── README.md
 
 ------------------------------------------------------------------------
 
