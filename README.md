@@ -34,6 +34,8 @@ I focus on solving real-world business problems using data-driven insights.
 ### 📈 Excel Projects
 - Sales analysis 
 
+### End-to-End-projects
+- Ecommerce sales analysis
 ---
 
 ## 🛠 Tools & Technologies
