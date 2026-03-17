@@ -20,16 +20,14 @@ I focus on solving real-world business problems using data-driven insights.
 
 ### 🗄 SQL Projects
 - Sales_Analysis_Project
+- Student Result analysis
 
 ### 🐍 Python Projects
 - Academic Performance Analytics
 - Bank loan analysis
-- Customer behaviour analysis (in progress)
+- Customer behaviour analysis 
 - Bank loan Risk analysis
-
-
-### 📊 Power BI Dashboards
-
+- Emoloyees attrition rate
 
 ### 📈 Excel Projects
 - Sales analysis 
@@ -37,6 +35,7 @@ I focus on solving real-world business problems using data-driven insights.
 ### End-to-End-projects
 - Ecommerce sales analysis
 - Healthcare-Readmission-Analysis
+- Ecommerce sales analysis(ADV)
 ---
 
 ## 🛠 Tools & Technologies
