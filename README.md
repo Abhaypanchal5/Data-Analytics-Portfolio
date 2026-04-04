@@ -37,6 +37,7 @@ I focus on solving real-world business problems using data-driven insights.
 - Healthcare-Readmission-Analysis
 - Ecommerce sales analysis(ADV)
 - Formula 1 Analysis
+- Netflix Analysis
 ---
 
 ## 🛠 Tools & Technologies
