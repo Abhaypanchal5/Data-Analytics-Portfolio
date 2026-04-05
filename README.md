@@ -38,6 +38,7 @@ I focus on solving real-world business problems using data-driven insights.
 - Ecommerce sales analysis(ADV)
 - Formula 1 Analysis
 - Netflix Analysis
+- Chocolate Sales Data
 ---
 
 ## 🛠 Tools & Technologies
